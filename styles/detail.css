@@ -1,0 +1,37 @@
+
+        html,body{
+            min-height:100%;
+            margin: opx;
+         background-color: #e0e0e0;
+     }
+     img{
+         height: 60px;
+         width: 60px;
+     }
+     #Radisson{
+         height: 300px;
+         width: 300px;
+         align-self: center;
+     }
+     .Radissonhotel{
+         margin-top: 2%;
+         margin-left: 4%;
+         margin-right: 4%;
+     }
+     #login{
+        color:black;
+        text-decoration: none;
+     }
+     .right{
+        text-align: right;
+        float:right;
+        vertical-align: center; 
+        margin:2%;
+        color:black;
+        text-decoration: none;
+     }
+     #contact{
+        color:black;
+        text-decoration: none;
+        vertical-align: center;
+     } 

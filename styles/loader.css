@@ -1,0 +1,19 @@
+
+.loding{
+       display: flex;
+      justify-content: center; 
+       margin: auto;
+       margin-top: 20%;
+       margin-bottom: 20%;
+                
+}
+.loding::after{
+    content: "";
+    width:70px;
+    height: 70px;
+    border:12px solid  #f3f3f3;
+    border-top-color:#444444;
+    border-radius: 50%;
+   
+}
+    

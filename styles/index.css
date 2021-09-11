@@ -1,0 +1,102 @@
+
+html,body{
+   min-height:100%;
+   margin: opx;
+   background-color: #e0e0e0;
+}
+
+.citypics{
+   height: 316px;
+   background-size: cover;
+   background-image: url("https://media-cdn.tripadvisor.com/media/photo-o/14/10/2e/af/india.jpg");
+   background-repeat: no-repeat;
+   background-position: center;
+}
+img{
+height: 60px;
+width: 60px;
+}
+#city1{
+height: 150px;
+width: 150px;
+border-radius: 25%;
+box-shadow: 10px 10px 10px gray;
+margin: 4%;
+}
+#city2{
+height: 150px;
+width: 150px;
+border-radius: 25%;
+box-shadow: 10px 10px 10px gray;
+margin: 4%;
+
+}
+#city3{
+height: 150px;
+width: 150px;
+border-radius: 25%;
+box-shadow: 10px 10px 10px gray;
+margin: 4%;
+}
+#city4{
+height: 150px;
+width: 150px;
+border-radius: 25%;
+box-shadow: 10px 10px 10px gray;
+margin: 4%;
+}
+.citystyle{
+   margin:4%;
+  margin-left: 15%;
+  margin-right: 15%;
+  
+}
+@font-face {
+   font-family: 'Ubuntu';
+   font-style: normal;
+   font-weight: 400;
+   font-display: swap;
+   src: url(https://fonts.gstatic.com/s/ubuntu/v15/4iCs6KVjbNBYlgoKcg72j00.woff2) format('woff2');
+   unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+.right{
+   text-align: right;
+   float:right;
+   vertical-align: center; 
+   margin:2%;
+   color:black;
+   text-decoration: none;
+}
+.leftalign{
+   text-align: left;
+   float:left;
+   vertical-align: center; 
+}
+.View{
+   text-align: center;
+}
+#view{ 
+   color:black;
+   text-decoration: none;
+}
+#contact{
+   color:black;
+   text-decoration: none;
+   vertical-align: center;
+}
+#login{
+   color:black;
+   text-decoration: none;
+}
+#textbox{
+   border:1px solid transparent;
+   background-color: #f1f1f1;
+   border-radius: 12px;
+   
+   font-size: 16px;
+   padding:10px;
+
+}
+#textbox:hover{
+   color: black;
+}

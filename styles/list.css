@@ -1,0 +1,78 @@
+       html,body{
+               min-height:100%;
+               margin: opx;
+             background-color: #e0e0e0;
+        }
+        #Radisson{
+            height: 250px;
+            width: 250px;
+            color: rgb(132,136,139);
+            
+        }
+        #lalit{
+            height: 250px;
+            width: 250px;
+        }
+        #taj{
+            height: 250px;
+            width: 250px;
+        }
+   
+       .Radissonhotel{
+           background-color: rgb(132,136,139);
+         
+         width: 40%;
+           
+           
+       }
+       .tajhotel{
+        
+        background-color: rgb(132,136,139);
+        width:40%;
+        float: left;
+        
+       }
+       .Lalithotel{
+       background-color: rgb(132,136,139);
+           width:40%;
+       }
+       #contact{
+        color:black;
+        text-decoration: none;
+        vertical-align: center;
+     }
+     #login{
+        color:black;
+        text-decoration: none;
+     }
+     .right{
+        text-align: right;
+        float:right;
+        vertical-align: center; 
+        margin:2%;
+        color:black;
+        text-decoration: none;
+     }
+     #list{
+         padding: 25%;
+        color:black;
+        text-decoration: none;
+        margin: 1%;
+       
+     }
+     #mapview{
+         
+        color:black;
+        text-decoration: none;
+        margin: 1%; 
+        
+     }
+     #map{
+        
+         visibility: hidden;
+         white-space: normal; 
+
+     }
+     #image{
+        display:inline-block; 
+     }
